@@ -22,4 +22,4 @@ To get involved, you can fork the repository, make your changes, and submit a pu
 
 ## Contact
 
-For any inquiries or collaboration ideas, feel free to reach out to me directly on LinkedIn: Sanskar Dewangan (https://www.linkedin.com/in/sanskar-dewangan-290bb5255/). Together, we can create something truly out of this world!
+For any inquiries or collaboration ideas, feel free to reach out to me directly on LinkedIn: [Sanskar Dewangan](https://www.linkedin.com/in/sanskar-dewangan-290bb5255/). Together, we can create something truly out of this world!
