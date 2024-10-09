@@ -10,11 +10,12 @@ Welcome to the **Planet 3D Model Selling Website**, your go-to platform for buyi
 
 ## Contribute to Our Project
 
-We believe in the power of collaboration and welcome contributions from the community! If you’re passionate about **3D modeling**, **web development**, or **digital art**, we invite you to join us in enhancing this project. Here are some ways you can contribute:
+We believe in the power of collaboration and welcome contributions from the community! If you’re passionate about 3D modeling, web development, or digital art, we invite you to join us in enhancing this project. Here are some ways you can contribute:
 
-- **Submit 3D Models**: If you have high-quality planetary models, feel free to share them with us!
-- **Suggest Features**: Your feedback is invaluable. Let us know what features you'd like to see on the site.
-- **Help with Development**: If you’re a developer, consider contributing code or assisting with website improvements.
+Submit 3D Models: If you have high-quality planetary models, feel free to share them with us!
+Suggest Features: Your feedback is invaluable. Let us know what features you'd like to see on the site.
+Help with Development: If you’re a developer, consider contributing code or assisting with website improvements.
+Learn How to Contribute: Check out the [GitHub Docs - Contributing to Projects](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project) for guidance on how to make contributions.
 
 ## Getting Started
 
@@ -22,4 +23,4 @@ To get involved, you can fork the repository, make your changes, and submit a pu
 
 ## Contact
 
-For any inquiries or collaboration ideas, feel free to reach out to me directly on LinkedIn: [Sanskar Dewangan](https://www.linkedin.com/in/sanskar-dewangan-290bb5255/). Together, we can create something truly out of this world!
+For any inquiries or collaboration ideas, feel free to reach out to me directly on LinkedIn: [Sanskar Dewangan](https://www.linkedin.com/in/sanskar-dewangan-290bb5255/) . Together, we can create something truly out of this world!
